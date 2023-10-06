@@ -11,7 +11,7 @@ Es un lenguaje de programacion ampliamente utilizado en las aplicaciones web, el
 
 Guido Van Rossum en el 1989 (Versión 0.9.0)
 
-<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Pyton-NahuelChristianLund/blob/main/inventor-transformed.png" alt="Logo" width="200" height="190" />
+<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Pyton-NahuelChristianLund/blob/main/inventor-transformed.png" alt="Logo" width="210" height="190" />
 
 
 
