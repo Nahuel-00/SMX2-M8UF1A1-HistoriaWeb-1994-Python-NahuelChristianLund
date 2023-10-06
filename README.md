@@ -1,5 +1,13 @@
 # Python
 
+## Índice
+```
+1. ¿Que es Python?
+
+2. ¿quien fue su inventor?
+
+3.¿Como funciona Python?
+```
 ### 1. *¿Que es Python?*
 
 Es un lenguaje de programacion ampliamente utilizado en las aplicaciones web y el desarrollo de software. 
