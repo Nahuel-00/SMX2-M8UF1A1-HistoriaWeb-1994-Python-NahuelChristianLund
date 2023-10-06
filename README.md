@@ -21,4 +21,4 @@ Este lenguaje utiliza módulos de código que son intercambiables en lugar de un
 
 Este no convierte el código a lenguaje de máquina o código máquina, sino que lo convierte en algo llamado código de byte. Este código de bytes no puede ser entendido por la CPU, así pues, necesitamos un intérprete llamado Máquina Virtual Python que ejecuta estos códigos de bytes.
 
-<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Pyton-NahuelChristianLund/blob/main/explicaci%C3%B3n.png" alt="Logo" width="800" height="450" />
+<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Pyton-NahuelChristianLund/blob/main/explicaci%C3%B3n%201.1.png" alt="Logo" width="800" height="450" />
