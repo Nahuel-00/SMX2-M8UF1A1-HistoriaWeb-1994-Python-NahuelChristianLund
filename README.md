@@ -4,6 +4,8 @@
 
 Es un lenguaje de programacion ampliamente utilizado en las aplicaciones web, el desarrollo de software.
 
+<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Pyton-NahuelChristianLund/blob/main/Python-logo-notext.svg.png" alt="Logo" width="300" height="200" />
+
 2. Quien fue su inventor?
 
 Guido Van Rossum en el 1989 (Versión 0.9.0)
