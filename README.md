@@ -14,6 +14,7 @@ Guido Van Rossum en el 1989 (Versión 0.9.0)
 <img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Pyton-NahuelChristianLund/blob/main/inventor.jpg" alt="Logo" width="200" height="190" />
 
 
+
 ### 3. *¿Como funciona Python?*
 
 Este lenguaje utiliza módulos de código que son intercambiables en lugar de una larga lista de instrucciones que era estándar para los lenguajes de programación funcional.
